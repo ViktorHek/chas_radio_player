@@ -1,0 +1,22 @@
+.container {
+  height: 300px;
+  width: 900px;
+  position: relative;
+  display: flex;
+  margin-bottom: 5px;
+}
+
+img {
+  height: 100%;
+}
+
+audio {
+  position: absolute;
+  bottom: 5px;
+  right: 100px;
+}
+
+p {
+  font-size: 2em;
+  font-weight: bold;
+}
